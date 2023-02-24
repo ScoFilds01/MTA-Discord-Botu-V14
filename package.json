@@ -1,0 +1,15 @@
+{
+  "name": "mta",
+  "version": "1.0.0",
+  "description": "mta",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ScoFilds",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "gamedig": "^4.0.5"
+  }
+}
